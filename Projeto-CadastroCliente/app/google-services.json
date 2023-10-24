@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581001867753",
+    "project_id": "cadastrocliente-9764f",
+    "storage_bucket": "cadastrocliente-9764f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581001867753:android:df50b7f7ae7bcb493fdb78",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy7ab4wae7Y5aiuXpAoJIQ7bZVOCeghFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
